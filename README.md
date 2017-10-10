@@ -26,3 +26,5 @@ If your company requires vendor setup, you can pass any required forms to our ac
 - **Type:** Non-Profit Corporation
 - **Address:** srnd.org, 340 S Lemon Ave #7763, Walnut, CA 91789
 - **W-9:** https://srnd.org/assets/pdf/open/w9.pdf
+
+srnd.org, the non-profit behind CodeDay, is a 501(c)(3) non-profit; your contributions are deductible to the extent allowed by law.
