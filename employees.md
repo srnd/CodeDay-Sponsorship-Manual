@@ -12,7 +12,7 @@ We recommend you start recruiting volunteers six weeks before CodeDay. In most c
 
 Feel free to copy the text below to help recruit volunteers.
 
-## Blurb
+# Blurb
 
 CodeDay is a 24-hour, tech event which gets diverse students to start coding. Over 70% of attendees with no prior experience continue programming after.
 
@@ -22,7 +22,7 @@ We're looking for judges and mentors to help students have a great and successfu
 
 **(Insert date and location of your sponsored event.)**
 
-### Low Commitment: Judging
+## Low Commitment: Judging
 
 CodeDay judges get to talk to student teams 1-1 and try their apps and games, watch student presentations, and then present several awards on the basis of creativity, effort, and polish. It's a low-pressure way to meet students in the community.
 
@@ -30,7 +30,7 @@ CodeDay judges get to talk to student teams 1-1 and try their apps and games, wa
 **Requirements:** None  
 **Training:** We send judges a one-page guide the week before the event, and brief them when they arrive. No additional training is needed.
 
-### Medium Commitment: Mentoring
+## Medium Commitment: Mentoring
 
 Mentors help students learn to make great projects. They patrol an assigned section of the event, looking for students experiencing problems. Help is usually needed with higher-level problems -- more "how should I approach this problem" and less "how do I use this particular technology".
 
