@@ -8,7 +8,7 @@ We can manage the volunteer recruitment process: just can have employees sign up
 
 Alternatively, you can send us an Excel sheet listing: first name, last name, email, and judge or mentor. Please email the sheet to volunteer@codeday.org
 
-We recommend you start recruiting volunteers six weeks before CodeDay. In most cities, our hard cut-off for volunteers is the Wednesday prior to CodeDay.
+We recommend you start recruiting volunteers six weeks before CodeDay. For the best experience, employees should sign up at least two weeks prior to CodeDay, however our hard cut-off for volunteers is the Wednesday prior to CodeDay.
 
 Feel free to copy the text below to help recruit volunteers.
 
