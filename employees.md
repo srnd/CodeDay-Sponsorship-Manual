@@ -2,15 +2,15 @@ Getting employees involved in the community can be a great way to increase their
 
 (If your company is just starting a volunteerism program, we recommend heavily promoting the judging opportunity: past sponsors have found that it's an easy ask for new volunteers.)
 
-# Recruiting
-
-We can manage the volunteer recruitment process: just can have employees sign up at https://codeday.org/volunteer (have them use their work email if you'd like statistics).
-
-Alternatively, you can send us an Excel sheet listing: first name, last name, email, and judge or mentor. Please email the sheet to volunteer@codeday.org
-
 We recommend you start recruiting volunteers six weeks before CodeDay. For the best experience, employees should sign up at least two weeks prior to CodeDay, however our hard cut-off for volunteers is the Wednesday prior to CodeDay.
 
-Feel free to copy the text below to help recruit volunteers.
+Blurbs are provided at the bottom of this page for you to copy.
+
+# Registering Mentors
+
+We can manage the volunteer recruitment process: just can have employees sign up at https://codeday.org/volunteer with their work email.
+
+Alternatively, you can send us an Excel sheet listing: first name, last name, email, and judge or mentor. Please email the sheet to [sponsor_ticketing@codeday.org](mailto:sponsor_ticketing@srnd.org). You can send updated sheets as necessary.
 
 # Blurb
 
