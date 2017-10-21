@@ -2,7 +2,7 @@ Our attendees (and their parents) greatly appreciate the sponsors that make Code
 
 Your support is recognized in the following places (click to see an example):
 
-- [CodeDay.org city page](/assets/placement-event.png)
+- <a href="/assets/placement-event.png" target="_blank">CodeDay.org city page</a>
 - [Event kickoff](/assets/placement-kickoff.png)
 - [Pre-event, at-event, and post-event emails](/assets/placement-email.png)
 - [CodeDay.org global page](/assets/placement-global.png) (some sponsors)
