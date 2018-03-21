@@ -6,34 +6,41 @@ We recommend you start recruiting volunteers six weeks before CodeDay. For the b
 
 Blurbs are provided at the bottom of this page for you to copy.
 
-# Registering Mentors
+# Volunteer Positions
+
+- **Mentor:** Saturday, 2+ hour shifts from 2pm-10pm. Programmers, designers, and project managers.
+- **Judge:** Sunday, 9am-12pm. No prerequisites.
+
+# Registering
 
 We can manage the volunteer recruitment process: just can have employees sign up at https://codeday.org/volunteer with their work email.
 
 Alternatively, you can send us an Excel sheet listing: first name, last name, email, and judge or mentor. Please email the sheet to [sponsor_ticketing@codeday.org](mailto:sponsor_ticketing@srnd.org). You can send updated sheets as necessary.
 
+The latest deadline for mentor/judge ticketing is the Wednesday before the event.
+
 # Blurb
 
-CodeDay is a 24-hour, tech event which gets diverse students to start coding. Over 70% of attendees with no prior experience continue programming after.
-
-We're looking for judges and mentors to help students have a great and successful weekend.
-
-**If you're interested, register at codeday.org/volunteer, or just reply to this email with your desired position.**
-
-**(Insert date and location of your sponsored event.)**
-
-## Low Commitment: Judging
-
-CodeDay judges get to talk to student teams 1-1 and try their apps and games, watch student presentations, and then present several awards on the basis of creativity, effort, and polish. It's a low-pressure way to meet students in the community.
-
-**Time:** Sunday of the event, from 9am through noon.  
-**Requirements:** None  
-**Training:** We send judges a one-page guide the week before the event, and brief them when they arrive. No additional training is needed.
-
-## Medium Commitment: Mentoring
-
-Mentors help students learn to make great projects. They patrol an assigned section of the event, looking for students experiencing problems. Help is usually needed with higher-level problems -- more "how should I approach this problem" and less "how do I use this particular technology".
-
-**Time:** Saturday of the event; two-hour shifts starting at 2pm.  
-**Requirements:** Technical, design, or product management job role or background
-**Training:** We request that first-time mentors join a one-hour training call in the two weeks prior to the event.
+> CodeDay is a 24-hour, tech event which gets diverse students to start coding. Over 70% of attendees with no prior experience continue programming after.
+> 
+> We're looking for judges and mentors to help students have a great and successful weekend.
+> 
+> **If you're interested, register at codeday.org/volunteer, or just reply to this email with your desired position.**
+> 
+> **(Insert date and location of your sponsored event.)**
+> 
+> ## Low Commitment: Judging
+> 
+> CodeDay judges get to talk to student teams 1-1 and try their apps and games, watch student presentations, and then present several awards on the basis of creativity, effort, and polish. It's a low-pressure way to meet students in the community.
+> 
+> **Time:** Sunday of the event, from 9am through noon.  
+> **Requirements:** None  
+> **Training:** We send judges a one-page guide the week before the event, and brief them when they arrive. No additional training is needed.
+> 
+> ## Medium Commitment: Mentoring
+> 
+> Mentors help students learn to make great projects. They patrol an assigned section of the event, looking for students experiencing problems. Help is usually needed with higher-level problems -- more "how should I approach this problem" and less "how do I use this particular technology".
+> 
+> **Time:** Saturday of the event; two-hour shifts starting at 2pm.  
+> **Requirements:** Technical, design, or product management job role or background
+> **Training:** We request that first-time mentors join a one-hour training call in the two weeks prior to the event.
